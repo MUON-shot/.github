@@ -13,6 +13,6 @@
 - **Shareable presets.** Pass a look to someone as a single line of text.
 - **Two languages.** English and Russian interface.
 
-**Get it:** [Download the latest release](https://github.com/mbpye/muon/releases/latest). It runs on Windows 10 and 11 (64-bit) with any DirectX 11 graphics card.
+**Get it:** [Download the latest release](https://github.com/MUON-shot/Muon-Windows/releases/latest). It runs on Windows 10 and 11 (64-bit) with any DirectX 11 graphics card.
 
 <sub>Open source under the MIT license. Built with C++, Direct3D 11, LibRaw and Dear ImGui.</sub>
